@@ -1,0 +1,53 @@
+body{
+    background-image: url(flag\ moldavie.png);
+    background-repeat: no-repeat;
+    background-size: 1950px 1150px;
+    font-family: 'Courier New', Courier, monospace ;
+    background-attachment: fixed;
+}
+nav{
+    background-color: white;
+}
+nav li{
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+nav li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 128px;
+    text-decoration: none;
+    background-attachment: fixed;
+    background-color: white;
+    border-radius: 80%;
+    border-color: black;
+    margin: 10px;
+}
+aside {
+    float: right;
+    border: 2px solid black;
+    height: 995px;
+    width: 150px;
+}
+p {
+ font-family: 'Courier New', Courier, monospace;
+ color:white;
+ font-style: oblique;
+}
+table {
+    width: 520px; 
+    height: 300px; 
+    font-family: 'Courier New', Courier, monospace ; 
+    
+    
+}
+th, td {
+    border: 1px whitesmoke dotted;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
